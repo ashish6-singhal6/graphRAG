@@ -1,0 +1,16 @@
+update-script.log
+arxiv_cache_rockdb/
+paper_details_cache/
+arxiv_qa_repo/
+HEADER.md
+HF/README.md
+.DS_Store
+convert-all.py
+convert-all2.py
+check-cache.ipynb
+converter.ipynb
+converter.ipynb
+converter.ipynb
+arxiv_cache.db
+arxiv_qa2/
+arxiv_cache_rockdb.zip
